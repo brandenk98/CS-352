@@ -1,4 +1,4 @@
-0. Branden Kushnir () and Michael Rizzo (mjr336)
+0. Branden Kushnir (bik9) and Michael Rizzo (mjr336)
 
 1. Briefly discuss how you implemented your recursive client functionality.
 
